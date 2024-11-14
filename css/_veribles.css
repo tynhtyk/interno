@@ -1,0 +1,13 @@
+:root{
+    /* global */
+    --global: #292F36;
+    /* colors */
+    --botton-text-color: #ffffff;
+    --gold-text-color: #cda274;
+    --second-text-color: #4D5053;
+    /* background-color */
+    --people-background-color: #F4F0EC;
+    /* font */
+    --body-font: "Jost", sans-serif;
+    --second-font: "DM Serfit Dispey", serif;
+}
