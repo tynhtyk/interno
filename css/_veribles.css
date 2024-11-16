@@ -1,13 +1,19 @@
-:root{
+:root {
     /* global */
-    --global: #292F36;
+    --global: #292f36;
     /* colors */
-    --botton-text-color: #ffffff;
+    --second-text-color: #4d5053;
+    --button-text-color: #ffffff;
     --gold-text-color: #cda274;
-    --second-text-color: #4D5053;
-    /* background-color */
-    --people-background-color: #F4F0EC;
+  
+    /* background-colors */
+    --people-background-color: #f4f0ec;
+  
     /* font */
     --body-font: "Jost", sans-serif;
-    --second-font: "DM Serfit Dispey", serif;
-}
+    --second-font: "DM Serif Display", serif;
+  
+    /* letter-spacing */
+    --letter-spacing: 0.22px;
+  }
+  

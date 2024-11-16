@@ -1,0 +1,18 @@
+.btn{
+  padding: 18px 20px;
+  background-color: var(--globol);
+  color: var(--button-text-color);
+  border-radius: 18px;
+  border: 2px solid var(--globol);
+  display: flex;
+  align-items: center;
+  column-gap: 21px;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.72px;
+}
+
+.btn span{
+   display: flex;
+   align-items: center;
+}
