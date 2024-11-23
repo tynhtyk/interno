@@ -1,6 +1,6 @@
 .btn{
   padding: 18px 20px;
-  background-color: var(--globol);
+  background-color: var(--global);
   color: var(--button-text-color);
   border-radius: 18px;
   border: 2px solid var(--globol);

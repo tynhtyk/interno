@@ -1,0 +1,15 @@
+.menus{
+    padding: 12px 0;
+}
+
+.menus__list a{
+    width: 317px;
+    height: 317px;
+    background-color: blueviolet;
+}
+
+.menus__list p{
+    width: 317px;
+    height: 317px;
+    margin: 13px 0;
+}
